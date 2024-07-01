@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\learning_results\\web_app-dame_la_receta\\DameLaReceta\\DameLaReceta\\DameLaReceta\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DameLaReceta.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DameLaReceta.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\learning_results\\web_app-dame_la_receta\\DameLaReceta\\DameLaReceta\\DameLaReceta\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DameLaReceta.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DameLaReceta.props",
+      "PackagePath": "build\\DameLaReceta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DameLaReceta.props",
+      "PackagePath": "buildMultiTargeting\\DameLaReceta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DameLaReceta.props",
+      "PackagePath": "buildTransitive\\DameLaReceta.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
