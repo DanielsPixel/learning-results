@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\learning_results\\microsoft_learn-blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\microsoft_learn-blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\microsoft_learn-blazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\learning_results\\microsoft_learn-blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\learning_results\\microsoft_learn-blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\learning_results\\microsoft_learn-blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Documents\\GitHub\\learning_results\\microsoft_learn-blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.microsoft_learn-blazor.props",
+      "PackagePath": "build\\microsoft_learn-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.microsoft_learn-blazor.props",
+      "PackagePath": "buildMultiTargeting\\microsoft_learn-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.microsoft_learn-blazor.props",
+      "PackagePath": "buildTransitive\\microsoft_learn-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.microsoft_learn-blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

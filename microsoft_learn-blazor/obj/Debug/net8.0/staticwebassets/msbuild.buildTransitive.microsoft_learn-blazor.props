@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\microsoft_learn-blazor.props" />
+</Project>
